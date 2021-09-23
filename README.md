@@ -1,2 +1,4 @@
-# pathfinder_issues
-Public community repo for aghanim's pathfinders suggestions and bug reports
+# Aghanim's Pathfinders Issues
+Public community repo for Aghs' Pathfinders suggestions and bug reports.
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2208582400
